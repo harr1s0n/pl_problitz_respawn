@@ -1,13 +1,19 @@
 # General
 removed collision overhangs in doors
+
 raised all ammo and health packs to be 16 units
+
 removed some clutter props and ones with 0 collision
 
 # 1st
 replaced the tires outside blue's spawn with a fence 
+
 improved chicken wire under the fence outside blue's right spawn 
+
 added chicken wire under the barn 
+
 replaced the full ammo with a medium in the sheltered pack room
+
 converted the full ammo on the hill to a medium
 
 # 2nd
